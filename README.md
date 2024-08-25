@@ -8,5 +8,5 @@ TODO:
 - [ ] Geometric product attenction function
   - [X] (n,d) (d,n) --> (n,n) multivectros
   - [ ] FC for each grade (?)
-  - [X] Normalization
+  - [ ] Normalization
 - [ ] Test SterableGeometricProduct insted of attention layer
