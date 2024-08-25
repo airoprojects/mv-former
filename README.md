@@ -4,9 +4,8 @@ NN - Bruno Francesco Nocera, Leonardo Colosi
 
 TODO:
 
-- [ ] Read Metodology: [link](https://arxiv.org/pdf/2305.11141)
-- [ ] Implement Linear Layers
-- [ ] Implement Geometric Product Layer
-- [ ] Implement Normalization Layer
-- [ ] Implement NonLinear Function
-- [ ] Implement Embedding Layer
+- [ ] Fix positional encoding
+- [ ] Geometric product attenction function
+  - [ ] (n,d) (d,n) --> (n,n) multivectros
+  - [ ] FC for each grade (?)
+- [ ] Test SterableGeometricProduct insted of attention layer
