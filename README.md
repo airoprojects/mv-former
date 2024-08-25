@@ -4,7 +4,7 @@ NN - Bruno Francesco Nocera, Leonardo Colosi
 
 TODO:
 
-- [ ] Fix positional encoding
+- [X] Fix positional encoding
 - [ ] Geometric product attenction function
   - [ ] (n,d) (d,n) --> (n,n) multivectros
   - [ ] FC for each grade (?)
