@@ -7,6 +7,7 @@ TODO:
 - [X] Fix positional encoding
 - [ ] Geometric product attenction function
   - [X] (n,d) (d,n) --> (n,n) multivectros
-  - [ ] FC for each grade (?)
-  - [ ] Normalization
+  - [X] FC for each grade (?)
+  - [X] Normalization
+  - [ ] Optimization
 - [ ] Test SterableGeometricProduct insted of attention layer
