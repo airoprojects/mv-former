@@ -4,10 +4,10 @@ NN - Bruno Francesco Nocera, Leonardo Colosi
 
 TODO:
 - [X] MultiVector embedding
-- [X] Fix positional encoding
-- [ ] Geometric product attenction function
+- [X] Positional encoding
+- [ ] SterableGeometricProduct product attenction function
   - [X] (n,d) (d,n) --> (n,n) multivectros
   - [X] FC for each grade (?)
   - [X] Normalization
   - [ ] Optimization
-- [ ] Test SterableGeometricProduct insted of attention layer
+- [ ] Test against dot product transformer
