@@ -10,7 +10,7 @@ TODO:
   - [X] FC for each grade (?)
   - [X] Normalization
   - [ ] Optimization (alternative to test)
-    - [ ] Remove learnable gm
+    - [X] Remove learnable gm
     - [ ] Parallelize subspaces projection
     - [X] Use samaller algebra dimention
 - [X] Test against dot product transformer
