@@ -12,7 +12,7 @@ TODO:
   - [ ] Optimization (alternative to test)
     - [ ] Remove learnable gm
     - [ ] Remove Subspaces projection
-    - [ ] Use samaller algebra dimention
+    - [X] Use samaller algebra dimention
 - [X] Test against dot product transformer
 - [X] Plot losses 
 - [X] Metrics
