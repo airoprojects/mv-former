@@ -1,4 +1,4 @@
-# Clifford Algebra Neural Network
+# Clifford Algebra Multi-Vector Transformer
 NN - Bruno Francesco Nocera, Leonardo Colosi
 
 
