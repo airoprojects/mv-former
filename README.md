@@ -11,8 +11,9 @@ TODO:
   - [X] Normalization
   - [ ] Optimization (alternative to test)
     - [X] Remove learnable gm
-    - [ ] Parallelize subspaces projection
+    - [X] Parallelize subspaces projection
     - [X] Use samaller algebra dimention
+    - [ ] Change geometric product logic
 - [X] Test against dot product transformer
 - [X] Plot losses 
 - [X] Metrics
